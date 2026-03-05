@@ -79,5 +79,3 @@ API RESTful profesional para la evaluación y autodiagnóstico de empresas en cr
 | **PostgreSQL** | 13+ | Base de datos principal |
 | **Werkzeug** | - | Seguridad (passwords, uploads) |
 | **Flask-CORS** | 4.0+ | Habilitar CORS |
-
-## 🏗️ Arquitectura del Sistema
