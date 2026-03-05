@@ -9,8 +9,13 @@
 ![Swagger](https://img.shields.io/badge/Swagger-UI-brightgreen.svg)
 
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/sustainability.png" width="120" height="120"/>
-  <h3>Sistema de Evaluación de Sostenibilidad Empresarial</h3>
+  
+  ### 🌱 **Sistema de Evaluación de Sostenibilidad Empresarial** 🌍
+  
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="60" height="60"/>
+  
 </div>
 
 API RESTful profesional para la evaluación y autodiagnóstico de empresas en criterios ASG (Ambiental, Social y Gobernanza). Permite gestionar empresas, usuarios, indicadores y evaluaciones periódicas con cálculo automático de clasificaciones.
@@ -31,9 +36,10 @@ API RESTful profesional para la evaluación y autodiagnóstico de empresas en cr
 ## 🎯 Características Principales
 
 <div align="center">
-  
+
 | 🌱 Ambiental | 👥 Social | ⚖️ Gobernanza |
 |:------------:|:---------:|:-------------:|
+| <img src="https://img.icons8.com/color/48/000000/leaf.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/conference.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/balance-scale.png" width="40"/> |
 | Indicadores ambientales | Indicadores sociales | Indicadores de gobierno |
 | Huella de carbono | Relación con empleados | Ética corporativa |
 | Gestión de residuos | Impacto comunitario | Transparencia |
@@ -53,8 +59,13 @@ API RESTful profesional para la evaluación y autodiagnóstico de empresas en cr
 ## 🛠️ Stack Tecnológico
 
 <div align="center">
-  
-![Tecnologías](https://skillicons.dev/icons?i=python,flask,postgres,git,github,vscode,docker)
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="60"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" width="60"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" width="60"/> |
+| **Python 3.8+** | **Flask 2.0+** | **PostgreSQL 13+** |
+| <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="60"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="60"/> | <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="60"/> |
+| **Git** | **GitHub** | **VS Code** |
 
 </div>
 
@@ -69,3 +80,4 @@ API RESTful profesional para la evaluación y autodiagnóstico de empresas en cr
 | **Werkzeug** | - | Seguridad (passwords, uploads) |
 | **Flask-CORS** | 4.0+ | Habilitar CORS |
 
+## 🏗️ Arquitectura del Sistema
